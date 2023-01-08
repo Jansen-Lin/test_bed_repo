@@ -1,5 +1,5 @@
 # Private Notebooks
-notebook/*private.ipynb
+notebook/*_private.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
