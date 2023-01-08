@@ -1,6 +1,11 @@
 # Private Notebooks
 notebook/*_private.ipynb
 
+# Private Folders
+data_private/
+data/
+output/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
