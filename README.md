@@ -10,7 +10,11 @@ __Description:__ This aims to output resume details from my source details in ex
 
 __`notebook_10.ipynb`__  <br>
 __Title:__ Polars: The Super Fast Dataframe Library for Python ... bye bye Pandas? <br>
-__Description:__ https://www.youtube.com/watch?v=CByx7XjYMhw, https://pypi.org/project/polars/
+__Description:__ [Polars: The Super Fast Dataframe Library for Python ... bye bye Pandas?](https://www.youtube.com/watch?v=CByx7XjYMhw) <br> To install polars: https://pypi.org/project/polars/
+
+__`notebook_11_sound.ipynb`__  <br>
+__Title:__ Mp3 audio cutting and analysis <br>
+__Description:__ Original intention was to use this to cut away useless part of a long mp3 audio. Also wanted to visualise the sound wave to know when to cut. Later found fffmpeg which runs by typing on command line.
 
 __`notebook_2.ipynb`__  <br>
 __Title:__ Convert Excel table to Markdown syntax <br>
