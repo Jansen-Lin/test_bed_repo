@@ -1,16 +1,16 @@
 ## Notebook Contents
 
+__`_notebook_.ipynb`__  <br>
+__Title:__ Implement Gradient Descent algorithm <br>
+__Description:__ This is just an attempt to implement gradient descent algorithm, with the help of chatGPT.
+
+__`_notebook_time_series.ipynb`__  <br>
+__Title:__ Time Series notebook <br>
+__Description:__ Just to quickly try out anything time-series related
+
 __`notebook_1.ipynb`__  <br>
 __Title:__ Resume details generation tool <br>
 __Description:__ This aims to output resume details from my source details in excel sheet.
-
-__`notebook_10.ipynb`__  <br>
-__Title:__ Polars: The Super Fast Dataframe Library for Python ... bye bye Pandas? <br>
-__Description:__ [Polars: The Super Fast Dataframe Library for Python ... bye bye Pandas?](https://www.youtube.com/watch?v=CByx7XjYMhw) <br> To install polars: https://pypi.org/project/polars/
-
-__`notebook_11_sound.ipynb`__  <br>
-__Title:__ Mp3 audio cutting and analysis <br>
-__Description:__ Original intention was to use this to cut away useless part of a long mp3 audio. Also wanted to visualise the sound wave to know when to cut. Later found fffmpeg which runs by typing on command line.
 
 __`notebook_2.ipynb`__  <br>
 __Title:__ Convert Excel table to Markdown syntax <br>
@@ -47,4 +47,24 @@ __Description:__ I was checking ChatGPT's solution.
 __`notebook_9_private.ipynb`__  <br>
 __Title:__ To compare two excel sheet for differences <br>
 __Description:__ 
+
+__`notebook_10.ipynb`__  <br>
+__Title:__ Polars: The Super Fast Dataframe Library for Python ... bye bye Pandas? <br>
+__Description:__ [Polars: The Super Fast Dataframe Library for Python ... bye bye Pandas?](https://www.youtube.com/watch?v=CByx7XjYMhw) <br> To install polars: https://pypi.org/project/polars/
+
+__`notebook_11_sound.ipynb`__  <br>
+__Title:__ Mp3 audio cutting and analysis <br>
+__Description:__ Original intention was to use this to cut away useless part of a long mp3 audio. Also wanted to visualise the sound wave to know when to cut. Later found fffmpeg which runs by typing on command line.
+
+__`notebook_pytorch.ipynb`__  <br>
+__Title:__ [Implementing original U-Net from scratch using PyTorch](https://www.youtube.com/watch?v=u1loyDCoGbE) <br> <br>
+__Description:__ Abhishek Thakur
+
+__`segmentation.ipynb`__  <br>
+__Title:__ Image Segmentation with Watershed Algorithm <br>
+__Description:__ https://docs.opencv.org/4.x/d3/db4/tutorial_py_watershed.html
+
+__`whatsapp_message.ipynb`__  <br>
+__Title:__ Sending Whatsapp message via python <br>
+__Description:__ To try different ways to send whatsapp messages via python. The eventual goal is to integrate this with a system for buy and sell signals for stocks.
 
